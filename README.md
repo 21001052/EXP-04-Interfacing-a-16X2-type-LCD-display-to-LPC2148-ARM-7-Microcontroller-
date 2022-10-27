@@ -184,7 +184,7 @@ int main(void)
 ### LCD ON:
 ![1](5.jpeg)
 ##  Layout Diagram: 
-![3](6jpeg)
+![3](6.jpeg)
 ## Result :
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings.
 
